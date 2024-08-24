@@ -16,7 +16,7 @@ Cada pasta contém exercícios relacionados a um tópico específico, como opera
 1. **Clonando o Repositório:** 
    - Para começar, clone este repositório para sua máquina local usando o comando:
      ```bash
-     git clone https://github.com/seu-usuario/Exercicios-DominandoJS.git
+     [git clone https://github.com/seu-usuario/Exercicios-DominandoJS.git](https://github.com/n1lima/Exercicios-DominandoJS)
      ```
    
 2. **Explorando os Exercícios:**
