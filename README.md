@@ -3,6 +3,12 @@
 
 Bem-vindo ao repositório **Exercícios-DominandoJS**. Este repositório contém 100 exercícios práticos retirados do livro *Dominando JavaScript*, que foram resolvidos por mim e disponibilizados para que outros possam praticar e comparar suas soluções.
 
+## Status do Projeto
+
+🚧 **Em Desenvolvimento** 🚧
+
+Este repositório está atualmente em desenvolvimento e pode estar sujeito a alterações significativas. Acompanhe as atualizações para ver as mudanças mais recentes.
+
 ## Estrutura do Repositório
 
 Os exercícios estão organizados em diferentes pastas, cada uma representando um tópico abordado no livro. Abaixo está a estrutura básica do repositório:
