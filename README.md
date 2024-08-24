@@ -32,10 +32,4 @@ Cada pasta contém exercícios relacionados a um tópico específico, como opera
 
 O objetivo deste repositório é fornecer uma base sólida de conhecimento em JavaScript através da prática. Ao concluir todos os exercícios, você terá uma compreensão muito mais aprofundada da linguagem e estará preparado para projetos mais avançados.
 
-## Licença
-
-Este repositório é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 **Boa sorte com os exercícios e bom aprendizado!**
