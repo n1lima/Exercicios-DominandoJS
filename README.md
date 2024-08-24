@@ -13,7 +13,7 @@ Este repositório está atualmente em desenvolvimento e pode estar sujeito a alt
 
 Os exercícios estão organizados em diferentes pastas, cada uma representando um tópico abordado no livro. Abaixo está a estrutura básica do repositório:
 
-📁 Exercicios-DominandoJS/ ├── 📁 formula-matematicas │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── 📁 strings │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── 📁 condicionais │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── 📁 lacos-de-repeticoes │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── 📁 vetores │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... └── 📁 matrizes ├── exercicio1.js ├── exercicio2.js └── ...
+Exercicios-DominandoJS/ ├── formula-matematicas/ │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── strings/ │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── condicionais/ │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── lacos-de-repeticoes/ │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... ├── vetores/ │ ├── exercicio1.js │ ├── exercicio2.js │ └── ... └── matrizes/ ├── exercicio1.js ├── exercicio2.js └── ...
 
 Cada pasta contém exercícios relacionados a um tópico específico, como operações matemáticas, manipulação de strings, condicionais, loops, vetores, e matrizes.
 
@@ -22,7 +22,7 @@ Cada pasta contém exercícios relacionados a um tópico específico, como opera
 1. **Clonando o Repositório:** 
    - Para começar, clone este repositório para sua máquina local usando o comando:
      ```bash
-       [https://github.com/n1lima/Exercicios-DominandoJS](https://github.com/n1lima/Exercicios-DominandoJS.git)
+        git clone https://github.com/n1lima/Exercicios-DominandoJS.git
      ```
    
 2. **Explorando os Exercícios:**
