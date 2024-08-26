@@ -10,8 +10,8 @@ for(let i = 0; i<quantity; i++){
     array.push(number)
 }
 
-let maior = 0
-for(let i = 0; i<array.length; i++){
+let maior = array[0]
+for(let i = 1; i<array.length; i++){
     if (maior<array[i]){
         maior = array[i]
     }
